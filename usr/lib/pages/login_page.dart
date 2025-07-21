@@ -73,7 +73,7 @@ class _LoginPageState extends State<LoginPage> {
                 ),
                 const SizedBox(height: 16),
                 const Text(
-                  'Welcome to CouldAI',
+                  'Welcome to the Future',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 28,
