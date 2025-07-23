@@ -55,8 +55,8 @@ class _LoginPageState extends State<LoginPage> {
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
             colors: [
-              Color(0xFF6A1B9A), // Deep Purple
-              Color(0xFFE1BEE7), // Light Purple
+              Color(0xFF388E3C), // Deep Green
+              Color(0xFFA5D6A7), // Light Green
             ],
           ),
         ),
